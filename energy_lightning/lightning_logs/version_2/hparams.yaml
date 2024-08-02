@@ -1,0 +1,7 @@
+c_dim: 30
+d_dim: 100
+embed_dim: 9
+interaction_dim: 60
+learning_rate: 0.003
+num_interaction: 3
+readout_dim: 15

@@ -1,0 +1,4 @@
+revised_benzene(25k) : 24.40 ± 1.74 [kcal/mol]  2024/08/01
+revised_malonaldehyde(25k) : 3.54 ± 2.75 [kcal/mol]  2024/08/01
+revised_toluene(25k) : 3.03 ± 2.38 [kcal/mol]  2024/08/01
+revised_salicylic_acid(25k) : 3.47 ± 2.65 [kcal/mol]  2024/08/01
